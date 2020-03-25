@@ -29,9 +29,8 @@ end
    
 def aoh_update(aoh,row, column, new_value)
   aoh[row][column] = new_value
-  aoh_update
 end
-
+puts aoh_update(aoh_literal, 1, 1, "Jerry Garcia")
 
 
 
