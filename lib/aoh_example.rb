@@ -8,7 +8,7 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
   aoh_constants = [
-    {DON_G}
+    {DON_G}, {JOELLE_VD}
     ]
 end
 
