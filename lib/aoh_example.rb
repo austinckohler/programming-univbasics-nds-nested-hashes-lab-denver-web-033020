@@ -14,7 +14,7 @@ end
 
 def literal_aoh
   aoh_literal = [
-    aoh_constants.sort
+    assembled_aoh.sort
     ]
 end
 
