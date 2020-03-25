@@ -12,6 +12,11 @@ def assembled_aoh
     ]
 end
 
+def literal_aoh
+  aoh_literal = [
+    aoh_constants.sort
+    ]
+end
 
 
 
